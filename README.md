@@ -2,8 +2,9 @@
 
 ## Introduction
 Put is a means to track your software development abilities.
-It is based off the Personal Software Process, but utilizes Git as a means to
-streamline tracking.
+It is based off the 
+[Personal Software Process](https://en.wikipedia.org/wiki/Personal_software_process)
+, but utilizes Git as a means to streamline tracking.
 
 The idea is that you will use the `put` command similarly to `git` - but instead
 of tracking source code, you track your development capabilities.
